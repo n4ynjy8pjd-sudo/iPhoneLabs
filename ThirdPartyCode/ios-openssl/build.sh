@@ -76,5 +76,4 @@ lipo \
 
 #rm -rf /tmp/openssl-1.0.0a-*
 #rm -rf /tmp/openssl-1.0.0a-*.log
-
- ./build.sh
+./build.sh
