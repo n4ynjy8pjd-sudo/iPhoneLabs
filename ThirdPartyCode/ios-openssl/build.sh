@@ -79,4 +79,4 @@ lipo \
 ./build.sh
 
 libcrypto.a
- 
+ include/
