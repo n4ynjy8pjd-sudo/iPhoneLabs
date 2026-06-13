@@ -80,3 +80,4 @@ lipo \
 
 libcrypto.a
  include/
+lib/ 
